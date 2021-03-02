@@ -1,4 +1,4 @@
-**<font size="5pt">VULTR</font>** 
+**<font size="5pt">VULTR</font>**  
 Greatest [**ToS**](https://www.vultr.com/legal/tos/) Ever
 
 > Written with [StackEdit](https://stackedit.io/)
