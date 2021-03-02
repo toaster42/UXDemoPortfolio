@@ -1,4 +1,6 @@
-(Word Autosave)[Word Office 365 Autosave&Recovery.md]
+REAMDE
+
+#### [Word Autosave](Word%20Office%20365%20Autosave%20Recovery.md)
 ---
 ## **VULTR**  
 Greatest [**ToS**](https://www.vultr.com/legal/tos/) Ever  
@@ -7,5 +9,5 @@ Greatest [**ToS**](https://www.vultr.com/legal/tos/) Ever
 >
 > `Markdown` / 144 bytes / 9 words / 6 lines
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5Mjc0NTE0XX0=
+eyJoaXN0b3J5IjpbMzgyOTgzNTRdfQ==
 -->
